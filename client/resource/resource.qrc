@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>ui_login.png</file>
+        <file>ui_icon.ico</file>
+        <file>flower.png</file>
+        <file>horse.png</file>
+        <file>like.png</file>
+        <file>rocket.png</file>
+        <file>room.jpg</file>
+        <file>like_.gif</file>
+        <file>flower_.gif</file>
+        <file>rocket_.png</file>
+    </qresource>
+</RCC>
